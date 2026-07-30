@@ -1,0 +1,9 @@
+{
+  "weights": "D:\\Github\\YOLOv8-greenhouse-pipeline\\runs\\greenhouse_smoke_retry\\weights\\best.pt",
+  "data": "D:\\Github\\YOLOv8-greenhouse-pipeline\\configs\\greenhouse_robot.yaml",
+  "precision": 0.998992821584966,
+  "recall": 1.0,
+  "map50": 0.995,
+  "map50_95": 0.7877857645758944,
+  "save_dir": "D:\\Github\\YOLOv8-greenhouse-pipeline\\runs\\greenhouse_smoke_retry_val"
+}

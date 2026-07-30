@@ -1,0 +1,9 @@
+# 由 scripts/prepare_dataset.py 使用的默认配置。
+# 默认数据集位置：仓库根目录/datasets/greenhouse_robot
+path: ../datasets/greenhouse_robot
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: navigation_marker
