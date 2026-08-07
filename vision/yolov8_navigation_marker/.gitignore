@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.vscode/
+
+datasets/
+models/
+runs/
+outputs/
+*.pt
+*.onnx
+
+*.zip
+!tests/fixtures/*.zip
