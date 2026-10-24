@@ -1,0 +1,19 @@
+# STM32 build outputs and IDE workspace state
+/Debug/
+/Release/
+/build/
+/.metadata/
+/.idea/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials and operating system files
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
